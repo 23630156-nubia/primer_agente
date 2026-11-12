@@ -1,0 +1,6 @@
+# Base de datos local
+datos_curso.sqlite
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
